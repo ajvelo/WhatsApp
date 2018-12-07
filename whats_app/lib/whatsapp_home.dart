@@ -14,7 +14,6 @@ class WhatsAppHome extends StatefulWidget {
       TabController _tabController;
       @override
         void initState() {
-          // TODO: implement initState
           super.initState();
           _tabController = new TabController(vsync: this,initialIndex: 1, length: 4);
         }
