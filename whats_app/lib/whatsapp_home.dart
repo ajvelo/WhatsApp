@@ -42,8 +42,8 @@ class WhatsAppHome extends StatefulWidget {
           actions: <Widget>[
             new Icon(Icons.search),
             new Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 5.0)
-              ,)
+              padding: const EdgeInsets.symmetric(horizontal: 5.0),
+              ),
             new Icon(Icons.more_vert),
           ],
         ),
