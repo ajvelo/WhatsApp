@@ -24,6 +24,7 @@ class WhatsAppHome extends StatefulWidget {
       return new Scaffold(
         appBar: new AppBar(
           title: new Text("WhatsApp"),
+          centerTitle: true,
           elevation: 0.7,
           bottom: new TabBar(
             controller: _tabController,

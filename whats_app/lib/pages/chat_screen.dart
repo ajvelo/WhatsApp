@@ -25,7 +25,7 @@ class ChatScreenState extends State<ChatScreen> {
               backgroundImage: new NetworkImage(dummyData[i].avatarUrl),
             ),
             title: new Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
                 new Text(
                   dummyData[i].name,
