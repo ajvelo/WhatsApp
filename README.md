@@ -10,6 +10,8 @@ For a quick look at what Flutter is and it's pros and cons you can review this a
 
 To get started using Flutter you can begin by looking at the Google documentation <a href="https://flutter.io/">here.</a>
 
+<hr>
+
 Please be aware that the fps is due to the conversion from .mp4 to .gif and does not accurately refect the frame rate when running the app on a device or simulator.
 
 The actual application runs much smoother than what is depicted in the gifs.
